@@ -9,11 +9,11 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nomealuno</groupId>
-	<artifactId>demo-acme-ap</artifactId>
+	<groupId>com.cristovantamayo</groupId>
+	<artifactId>trabalhoprevio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-acme-ap</name>
-	<description>Demo project for Spring Boot</description>
+	<name>trabalhoprevio</name>
+	<description>Trabalho Prévio - Cristovan Tamayo</description>
 
 	<properties>
 		<java.version>1.8</java.version>
